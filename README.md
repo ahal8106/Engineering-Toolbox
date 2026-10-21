@@ -4,7 +4,7 @@ A browser-based engineering calculator with no server, account, API key, or exte
 
 ## Calculators
 
-- Unit conversions across engineering and data units
+- Unit conversions across engineering and data units, including US cups for volume
 - Mass and volume flow conversions
 - Dimensions, volume, and estimated material weight
 - Thermal calculations
